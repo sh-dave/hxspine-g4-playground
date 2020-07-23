@@ -1,0 +1,27 @@
+[submodule "Kha"]
+	path = Kha
+	url = https://github.com/Kode/Kha.git
+[submodule "libs/tink_json"]
+	path = libs/tink_json
+	url = https://github.com/haxetink/tink_json.git
+[submodule "libs/tink_typecrawler"]
+	path = libs/tink_typecrawler
+	url = https://github.com/haxetink/tink_typecrawler.git
+[submodule "libs/tink_macro"]
+	path = libs/tink_macro
+	url = https://github.com/haxetink/tink_macro.git
+[submodule "libs/tink_core"]
+	path = libs/tink_core
+	url = https://github.com/haxetink/tink_core.git
+[submodule "libs/zui"]
+	path = libs/zui
+	url = https://github.com/armory3d/zui.git
+[submodule "libs/hxspine"]
+	path = libs/hxspine
+	url = https://github.com/nadako/hxspine.git
+[submodule "libs/hxspine-kha"]
+	path = libs/hxspine-kha
+	url = https://github.com/sh-dave/hxspine-kha.git
+[submodule "libs/hxspine-g4"]
+	path = libs/hxspine-g4
+	url = https://github.com/sh-dave/hxspine-g4.git
