@@ -134,7 +134,7 @@ class Main {
 			skeleton.x = it.x;
 			skeleton.y = it.y;
 			skeleton.scaleX = it.sx;
-			skeleton.scaleY = it.sy;
+			skeleton.scaleY = it.sy * -1;
 			skeleton.updateWorldTransform();
 
 			objs.push({
